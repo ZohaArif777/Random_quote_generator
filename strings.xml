@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomQuoteGenerator</string>
+    <string-array name="Quotes">
+       <item> "Success is walking from failure to failure with no loss of enthusiasm".</item>
+        <item>"Never lose hope."</item>
+        <item> "I find that the harder I work, the more luck I seem to have." .</item>
+        <item>"Choose a job you love, and you will never have to work a day in your life."</item>
+        <item> "Change the game, don't let the game change you." </item>
+        <item>" If you want something done right, do it yourself."</item>
+        <item> "Keep your face always toward the sunshine, and shadows will fall behind you."</item>
+        <item>"To live a creative life, we must lose our fear of being wrong."</item>
+        <item> "Trust because you are willing to accept the risk, not because it's safe or certain."</item>
+        <item>"Opportunities don't happen, you create them."</item>
+        <item> "The whole secret of a successful life is to find out what is one's destiny to do, and then do it." -</item>
+        <item> "Blessed are those who can give without remembering and take without forgetting."</item>
+    </string-array>
+</resources>
